@@ -1,0 +1,18 @@
+.posts{
+    background-color:rgb(211, 236, 221);
+    border-radius: 15px;
+    
+}
+.whitePosts{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.bgImage{
+    background-image: url('../img/dashboard.png.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-color: white;
+    
+}
